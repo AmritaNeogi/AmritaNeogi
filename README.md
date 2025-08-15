@@ -1,12 +1,13 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Amrita Neogi</h1>
-<h3 align="center">Data Scientist | M.S. in Data Science</h3>
+<h3 align="center">Data Scientist | M.S. in Data Science | B.Tech in Electrical Engineering</h3> 
 
 ---
 
 🎯 **About Me**
-- 📊 Turning complex data into actionable insights using **Machine Learning, Statistical Modeling, and Data Engineering**
+- 📊 4.5 years in **ETL** and 2 years in **Data Science**  
+- 🔍 Apply **Machine Learning**, **Statistical Modeling**, and **Data Engineering** to solve real business and research problems
 - 💻 Proficient in **Python**, **R**, **SQL**, and **Cloud Analytics (AWS, GCP)**
 - 🚀 Experienced in building **scalable pipelines** and **predictive models** for business and research
 <!-- - 📫 How to reach me: **[Email](neogiamrita111@gmail.com)** | **[LinkedIn](linkedin.com/in/amritaneogi)** -->
