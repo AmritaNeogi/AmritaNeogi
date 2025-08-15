@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi there 👋, I'm Amrita Neogi</h1>
+<h1 align="center">Hi there 👋, I'm Amrita</h1>
 <h3 align="center">Data Scientist | M.S. in Data Science | B.Tech in Electrical Engineering</h3> 
 
 ---
