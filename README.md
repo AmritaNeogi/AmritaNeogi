@@ -6,7 +6,7 @@
 ---
 
 🎯 **About Me**
-- 📊 4.5 years in **ETL** and 2 years in **Data Science**  
+- 📊 6 years in **ETL** and **Data Science**  
 - 🔍 Apply **Machine Learning**, **Statistical Modeling**, and **Data Engineering** to solve real business and research problems  
 - 🏥💹 Worked with **financial** and **healthcare** datasets containing **PII** and **PHI**, ensuring compliance and data privacy  
 - 💻 Proficient in **Python**, **R**, **SQL**, and **Cloud Analytics (AWS, GCP)**  
